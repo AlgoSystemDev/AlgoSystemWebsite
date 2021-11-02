@@ -149,6 +149,15 @@ body {
 	color: #8a8a8a;
 }
 
+.donation {
+	text-align:  right;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font:  0.8em "Fira Sans", sans-serif;
+	color:  #8a8a8a;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
